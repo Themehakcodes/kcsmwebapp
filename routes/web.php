@@ -1,6 +1,7 @@
 <?php
 
 use App\Http\Controllers\Admin\PermissionsController;
+use App\Http\Controllers\Admin\RolesController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -28,4 +29,5 @@ Route::middleware([
     })->name('dashboard');
 
     Route::resource('permissions', PermissionsController::class);
+    Route::resource('roles', RolesController::class);
 });
