@@ -19,7 +19,8 @@
 <link rel="stylesheet" href="{{ asset('admin/dist/css/tabler-payments.min.css?1692870487') }}" class="template-customizer-core-css" />
 <link rel="stylesheet" href="{{ asset('admin/dist/css/tabler-flags.min.css?1692870487') }}" class="template-customizer-theme-css" />
 <link rel="stylesheet" href="{{ asset('admin/dist/css/tabler.min.css?1692870487') }}" />
-
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css">
 
 
 <style>
